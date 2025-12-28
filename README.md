@@ -37,7 +37,7 @@ No more manual editing of `.ini` files. Customize your game directly through our
 
 1. **Download:** Grab the latest archive from the [Releases](https://github.com/banzeon205/Ultimate-ARC-Raiders-Tweaker/releases/main) page.
 2. **Extract:** Unzip the folder anywhere on your PC (it does not need to be in the game directory).
-3. **Launch:** Run **`raiders.exe`** as **Administrator** (required to apply system-level performance tweaks).
+3. **Launch:** Run **`raiders.ps1`** as **Administrator** (required to apply system-level performance tweaks).
 4. **Configure:** Select your desired settings in the GUI and click **"Apply Changes"**.
 5. **Play:** Launch ARC Raiders and dominate the battlefield!
 
